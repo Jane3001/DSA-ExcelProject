@@ -1,5 +1,3 @@
-# DSA-ExcelProject
-
 ## Project Topic: Amazon Product Review Analysis using Excel
 
 ### Project Overview
@@ -24,6 +22,10 @@ The raw dataset contained product-level data scraped from Amazon product pages. 
     - Price Range Buckets (Products were categorized into three price ranges:=IF([@Actual_Price]<200,"<200",IF([@Actual_Price]<=500,"200–500",">500"))
 - Validated data integrity by cross-checking calculations for accuracy.
 
+![Data Cleaning 1](https://github.com/user-attachments/assets/e4f4ae31-792a-4613-a6b2-1f1fd716922f)
+
+![Data Cleaning 2](https://github.com/user-attachments/assets/2cd39adc-423a-43d8-a7b8-719d6d72f92c)
+
 ### Exploratory Data Analysis (EDA)
 Exploratory Data Analysis was conducted using Pivot Tables, charts, and Excel formulas to uncover patterns, trends, and key insights from the Amazon product review data.
 - Average Discount % by product category helped identify categories with frequent price reductions which is Home Improvement category
@@ -38,6 +40,16 @@ Exploratory Data Analysis was conducted using Pivot Tables, charts, and Excel fo
       - Potential revenue by category calculated as:Potential Revenue = Actual Price × Rating Count showed that Electronics could drive the most sales based on popularity and price.
 - Products were bucketed into <200, 200–500 and >500. This helped assess product distribution across price tiers.
 - Discount % vs Rating explored whether deeper discounts affected customer ratings using a line chart.
+
+![Pivot Table 1](https://github.com/user-attachments/assets/bd373adf-cd22-4515-8c9d-cb37d9ac6242)
+
+![Pivot Table 2](https://github.com/user-attachments/assets/090c59c9-5f01-4a7d-9b4a-e882030ed381)
+
+![Pivot Table 3](https://github.com/user-attachments/assets/315825ab-ce41-4bb2-8396-e58c4df231df)
+
+![Pivot Table 4](https://github.com/user-attachments/assets/25d17c57-b4b0-4650-87ff-defdb019da48)
+
+![Pivot Table 5](https://github.com/user-attachments/assets/19be406d-902c-4471-8486-828f19f8837c)
 
 ### Findings
 Based on the exploratory data analysis performed using Excel, several key insights were uncovered from the Amazon product review dataset:
