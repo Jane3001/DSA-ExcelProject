@@ -24,3 +24,18 @@ The raw dataset contained product-level data scraped from Amazon product pages. 
     - Price Range Buckets (Products were categorized into three price ranges:=IF([@Actual_Price]<200,"<200",IF([@Actual_Price]<=500,"200–500",">500"))
 - Validated data integrity by cross-checking calculations for accuracy.
 
+### Exploratory Data Analysis (EDA)
+Exploratory Data Analysis was conducted using Pivot Tables, charts, and Excel formulas to uncover patterns, trends, and key insights from the Amazon product review data.
+- Average Discount % by product category helped identify categories with frequent price reductions which is Home Improvement category
+- Pivot Table was used to count how many products belong to each category.
+- Total reviews by category revealed that Electronics had the most customer engagement
+- Average Actual Price vs. Discounted Price is compared across categories
+- Distribution of Products with ≥50% discount highlight heavily discounted products
+- Rating Distribution:
+      - Top rated products identified products with the highest average ratings.
+      - Most reviewed products highlighted products with the highest number of reviews.
+- Revenue Estimations
+      - Potential revenue by category calculated as:Potential Revenue = Actual Price × Rating Count showed that Electronics could drive the most sales based on popularity and price.
+- Products were bucketed into <200, 200–500 and >500. This helped assess product distribution across price tiers.
+- Discount % vs Rating explored whether deeper discounts affected customer ratings using a line chart.
+
