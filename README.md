@@ -39,3 +39,27 @@ Exploratory Data Analysis was conducted using Pivot Tables, charts, and Excel fo
 - Products were bucketed into <200, 200–500 and >500. This helped assess product distribution across price tiers.
 - Discount % vs Rating explored whether deeper discounts affected customer ratings using a line chart.
 
+### Findings
+Based on the exploratory data analysis performed using Excel, several key insights were uncovered from the Amazon product review dataset:
+- Product Category Trends
+     - Home & Kitchen and Electronics had the highest number of products listed.
+     - Electronics has the highest total number of reviews, indicating strong customer engagement.
+- Pricing and Discounts
+    - Categories like Home Improvement and Computer&Accesories offered higher average discounts (58% and 53% respectively).
+- Ratings Insights
+    - Most products had ratings between 3.5 and 4.5, with very few below 2.0.
+- Electronics generated the highest potential revenue, driven by both high prices and review volume.
+- The majority of products were priced above ₹500, though low-priced items (<₹200) still received significant customer attention.
+
+### Recommendations
+Based on the insights generated from the analysis, the following recommendations are proposed to enhance product visibility, pricing strategy, and customer engagement on the Amazon platform:
+- Allocate more marketing budget and ad spend to categories like Electronics which show high engagement and revenue potential.
+- Promote top-rated products in low-competition categories to gain a competitive edge
+- Review products offering ≥50% discounts for profitability concerns — ensure discounts are justified by demand or inventory needs.
+- Encourage satisfied customers to leave reviews, especially for products with high ratings but few reviews.
+- Track products with high Potential Revenue and ensure stock availability, fast shipping, and enhanced listing details.
+- Evaluate how pricing and review volume influence estimated revenue and adjust strategy accordingly.
+
+
+
+
