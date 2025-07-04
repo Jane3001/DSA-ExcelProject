@@ -66,9 +66,12 @@ Based on the exploratory data analysis performed using Excel, several key insigh
 
 ![Excel Dashboard 1](https://github.com/user-attachments/assets/dcde5ca2-5a60-4862-a395-ecceb218ac46)
 
+
 ![Excel Dashboard 2](https://github.com/user-attachments/assets/6866351c-051b-4575-9f60-4236d2e45a40)
 
+
 ![Excel Dashboard 3](https://github.com/user-attachments/assets/7b15c320-2ab9-4fc8-adc2-608583097eba)
+
 
 ### Recommendations
 Based on the insights generated from the analysis, the following recommendations are proposed to enhance product visibility, pricing strategy, and customer engagement on the Amazon platform:
